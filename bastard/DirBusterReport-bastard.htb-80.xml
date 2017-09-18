@@ -1,0 +1,28 @@
+<?xml version="1.0>
+<DirBusterResults>
+<Result type="Dir" path="/misc/" responseCode="403" />
+<Result type="Dir" path="/themes/" responseCode="403" />
+<Result type="Dir" path="/modules/" responseCode="403" />
+<Result type="Dir" path="/" responseCode="200" />
+<Result type="Dir" path="/search/" responseCode="403" />
+<Result type="Dir" path="/scripts/" responseCode="403" />
+<Result type="Dir" path="/0/" responseCode="200" />
+<Result type="Dir" path="/user/" responseCode="200" />
+<Result type="Dir" path="/admin/" responseCode="403" />
+<Result type="Dir" path="/sites/" responseCode="403" />
+<Result type="Dir" path="/node/" responseCode="200" />
+<Result type="Dir" path="/includes/" responseCode="403" />
+<Result type="Dir" path="/profiles/" responseCode="403" />
+<Result type="File" path="/user/register" responseCode="200" />
+<Result type="File" path="/user" responseCode="200" />
+<Result type="File" path="/user/password" responseCode="200" />
+<Result type="Dir" path="/themes/bartik/" responseCode="403" />
+<Result type="File" path="/node" responseCode="200" />
+<Result type="File" path="/misc/jquery.js" responseCode="200" />
+<Result type="File" path="/misc/jquery.once.js" responseCode="200" />
+<Result type="File" path="/misc/drupal.js" responseCode="200" />
+<Result type="File" path="/misc/jquery.cookie.js" responseCode="200" />
+<Result type="Dir" path="/entries/" responseCode="403" />
+<Result type="Dir" path="/rest/" responseCode="200" />
+<Result type="Dir" path="/batch/" responseCode="403" />
+</DirBusterResults>

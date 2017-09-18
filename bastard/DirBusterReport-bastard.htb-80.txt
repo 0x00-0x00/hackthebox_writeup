@@ -1,0 +1,49 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Mon Sep 18 07:28:33 BRT 2017
+--------------------------------
+
+http://bastard.htb:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 403 response:
+
+/misc/
+/themes/
+/modules/
+/search/
+/scripts/
+/admin/
+/sites/
+/includes/
+/profiles/
+/themes/bartik/
+/entries/
+/batch/
+
+Dirs found with a 200 response:
+
+/
+/0/
+/user/
+/node/
+/rest/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 200 responce:
+
+/user/register
+/user
+/user/password
+/node
+/misc/jquery.js
+/misc/jquery.once.js
+/misc/drupal.js
+/misc/jquery.cookie.js
+
+
+--------------------------------
